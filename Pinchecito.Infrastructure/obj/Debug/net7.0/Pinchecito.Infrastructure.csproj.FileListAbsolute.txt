@@ -1,0 +1,15 @@
+D:\Pinchecito\Pinchecito.Infrastructure\bin\Debug\net7.0\Pinchecito.Infrastructure.deps.json
+D:\Pinchecito\Pinchecito.Infrastructure\bin\Debug\net7.0\Pinchecito.Infrastructure.dll
+D:\Pinchecito\Pinchecito.Infrastructure\bin\Debug\net7.0\Pinchecito.Infrastructure.pdb
+D:\Pinchecito\Pinchecito.Infrastructure\bin\Debug\net7.0\Pinchecito.Core.dll
+D:\Pinchecito\Pinchecito.Infrastructure\bin\Debug\net7.0\Pinchecito.Core.pdb
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.csproj.AssemblyReference.cache
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.AssemblyInfoInputs.cache
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.AssemblyInfo.cs
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.csproj.CopyComplete
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.dll
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\refint\Pinchecito.Infrastructure.dll
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\Pinchecito.Infrastructure.pdb
+D:\Pinchecito\Pinchecito.Infrastructure\obj\Debug\net7.0\ref\Pinchecito.Infrastructure.dll

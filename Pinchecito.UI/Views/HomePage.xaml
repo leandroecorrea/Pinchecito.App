@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             NavigationPage.HasBackButton="False"             
+             x:Class="Pinchecito.UI.Views.HomePage"
+             xmlns:viewmodel="clr-namespace:Pinchecito.UI.ViewModel"
+             x:DataType="viewmodel:HomeViewModel"
+             Title="Inicio">
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior IsVisible="False" IsEnabled="False" />
+    </Shell.BackButtonBehavior>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+            <VerticalStackLayout>
+                <Label 
+                    Text="{Binding Username, StringFormat='Usuario: {0}'}"
+                    Padding="20"/>
+                <Label 
+                    Text="{Binding Fullname, StringFormat='Hola, {0}'}"
+                    TextColor="DarkBlue"
+                    VerticalOptions="Center"             
+                    Margin="20"
+                    FontSize="20"/>
+                <Label 
+                    Text="{Binding FilesBeingTracked, StringFormat='Tenés {0} investigaciones seguidas'}"
+                    Margin="20, 5, 0, 0"/>
+                <Label Text="{Binding LastNotification, StringFormat='Última notificación: {0:dd/MM/yy} a las {0:hh:mm} horas.'}"
+                       Margin="20,5,0,0"/>
+            </VerticalStackLayout>
+            <VerticalStackLayout Grid.Row="1"                                 
+                                Spacing="30"
+                                WidthRequest="200"
+                                HeightRequest="300">
+                <Button Text="Agregar expediente"
+                        Clicked="OnNavigateToTrackFile"/>
+                <Button Text="Administrar expedientes"/>
+                <Button Text="Consultar expedientes"/>
+            </VerticalStackLayout>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,12 @@
+D:\Pinchecito\Pinchecito.Core\bin\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.deps.json
+D:\Pinchecito\Pinchecito.Core\bin\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.dll
+D:\Pinchecito\Pinchecito.Core\bin\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.pdb
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.csproj.AssemblyReference.cache
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.AssemblyInfoInputs.cache
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.AssemblyInfo.cs
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.csproj.CoreCompileInputs.cache
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.dll
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\refint\Pinchecito.Core.dll
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\Pinchecito.Core.pdb
+D:\Pinchecito\Pinchecito.Core\obj\Debug\net7.0-windows10.0.19041.0\ref\Pinchecito.Core.dll

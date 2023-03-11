@@ -1,0 +1,4 @@
+D:\Pinchecito\Pinchecito.Core\Pinchecito.Core.csproj;neutral
+D:\Pinchecito\Pinchecito.Core\Pinchecito.Core.csproj;neutral
+D:\Pinchecito\Pinchecito.Infrastructure\Pinchecito.Infrastructure.csproj;neutral
+D:\Pinchecito\Pinchecito.UI\Pinchecito.UI.csproj;x64

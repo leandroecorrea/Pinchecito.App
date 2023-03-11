@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Shell.NavBarIsVisible="False"
+             x:Class="Pinchecito.UI.LoginPage"
+             xmlns:viewmodel="clr-namespace:Pinchecito.UI.ViewModel"
+             x:DataType="viewmodel:LoginViewModel"
+             Title="Login">
+    <StackLayout>
+    <VerticalStackLayout 
+            Spacing="25"             
+            VerticalOptions="Center"
+            Margin="10,80,10,20">        
+
+        <VerticalStackLayout Spacing="5">
+            <Label Text="Bienvenido" FontSize="28" TextColor="Gray" HorizontalTextAlignment="Center" />
+            <Label Text="Ingresá tus credenciales de usuario MEV" FontSize="18" TextColor="Gray" HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+
+        <StackLayout Spacing="15">
+            <Entry x:Name="username"
+                   Placeholder="Usuario"
+                   WidthRequest="250"
+                   Text="{Binding Username}"
+                   ClearButtonVisibility="WhileEditing"
+                   
+                   IsSpellCheckEnabled="false"/>
+            <Entry x:Name="password"
+                   Placeholder="Contraseña"                                      
+                   Text="{Binding Password}"
+                   WidthRequest="250"
+                   IsSpellCheckEnabled="false"/>
+            <Picker                                
+                WidthRequest="250"
+                ItemsSource="{Binding AvailableDistricts}"
+                ItemDisplayBinding="{Binding CourtName}"
+                SelectedItem="{Binding SelectedDistrict}"                                               
+                >
+            </Picker>
+            <Button
+                Text="Login"
+                WidthRequest="120"
+                Command="{Binding LoginCommand}"
+                />
+            <ActivityIndicator IsRunning="{Binding IsLoginBeingProcessed}"/>
+            <Label HorizontalTextAlignment="Center" 
+                   Text="{Binding LoginError}" 
+                   IsVisible="{Binding LoginFailure}"
+                   FontSize="16" 
+                   TextColor="Red"/>
+        </StackLayout>
+    </VerticalStackLayout>
+    </StackLayout>
+</ContentPage>

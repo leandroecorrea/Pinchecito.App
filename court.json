@@ -1,0 +1,1483 @@
+[
+    {
+        "CreationCode": "AZ",
+        "TrackingCode": "10",
+        "DistrictName": "Azul",
+        "Courts": [
+            {
+                "QueryCode": "GAM22   ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM23   ",
+                "Fullname": "Juzgado Civil y Comercial N° 2 "
+            },
+            {
+                "QueryCode": "GAM24   ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM25   ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM1649 ",
+                "Fullname": "Juzgado en lo Contencioso y Administrativo Nro.1 de Azul"
+            },
+            {
+                "QueryCode": "GAM35   ",
+                "Fullname": "Tribunal del Trabajo de Azul"
+            },
+            {
+                "QueryCode": "GAM2122 ",
+                "Fullname": "Cámara Civil de Azul"
+            },
+            {
+                "QueryCode": "GAM15   ",
+                "Fullname": "Cámara Civil  Sala I de Azul"
+            },
+            {
+                "QueryCode": "GAM14   ",
+                "Fullname": "Cámara Civil  Sala II de Azul"
+            }
+        ]
+    },
+    {
+        "CreationCode": "BB",
+        "TrackingCode": "11",
+        "DistrictName": "Bahía Blanca",
+        "Courts": [
+            {
+                "QueryCode": "GAM1651 ",
+                "Fullname": "Juzgado Contencioso Administrativo 1"
+            },
+            {
+                "QueryCode": "GAM49   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM50   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM51   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM52   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM53   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 5"
+            },
+            {
+                "QueryCode": "GAM54   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 6"
+            },
+            {
+                "QueryCode": "GAM55   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 7"
+            },
+            {
+                "QueryCode": "GAM56   ",
+                "Fullname": "Juzgado en lo Civil y Comercial N° 8"
+            },
+            {
+                "QueryCode": "GAM71   ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM72   ",
+                "Fullname": "Tribunal de Trabajo N° 2"
+            },
+            {
+                "QueryCode": "GAM40   ",
+                "Fullname": "Cámara Primera de Apelación en lo Civil y Comercial -Sala I"
+            },
+            {
+                "QueryCode": "GAM41   ",
+                "Fullname": "Cámara Primera de Apelación en lo Civil y Comercial -Sala II"
+            }
+        ]
+    },
+    {
+        "CreationCode": "DO",
+        "TrackingCode": "12",
+        "DistrictName": "Dolores",
+        "Courts": [
+            {
+                "QueryCode": "GAM118  ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial"
+            },
+            {
+                "QueryCode": "GAM125  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM128  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM129  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM130  ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM1635 ",
+                "Fullname": "Juzgado Contencioso Administrativo"
+            },
+            {
+                "QueryCode": "GAM135  ",
+                "Fullname": "Secretaria de Apremios"
+            },
+            {
+                "QueryCode": "GAM139  ",
+                "Fullname": "Tribunal del Trabajo Nro. 1"
+            },
+            {
+                "QueryCode": "GAM2954 ",
+                "Fullname": "Tribunal del Trabajo Nro. 2"
+            }
+        ]
+    },
+    {
+        "CreationCode": "JU",
+        "TrackingCode": "13",
+        "DistrictName": "JuN°n",
+        "Courts": [
+            {
+                "QueryCode": "GAM1648 ",
+                "Fullname": "Juzgado Contencioso Administrativo"
+            },
+            {
+                "QueryCode": "GAM170  ",
+                "Fullname": "Camara Civil y Comercial"
+            },
+            {
+                "QueryCode": "GAM176  ",
+                "Fullname": "Juzgado Civil y Comercial 1"
+            },
+            {
+                "QueryCode": "GAM177  ",
+                "Fullname": "Juzgado Civil y Comercial 2"
+            },
+            {
+                "QueryCode": "GAM178  ",
+                "Fullname": "Juzgado Civil y Comercial 3"
+            },
+            {
+                "QueryCode": "GAM179  ",
+                "Fullname": "Juzgado Civil y Comercial 4"
+            },
+            {
+                "QueryCode": "GAM189  ",
+                "Fullname": "Tribunal del Trabajo"
+            },
+            {
+                "QueryCode": "GAM3611 ",
+                "Fullname": "Tribunal Laboral N°1 - Sede Chacabuco"
+            }
+        ]
+    },
+    {
+        "CreationCode": "LM",
+        "TrackingCode": "14",
+        "DistrictName": "La Matanza",
+        "Courts": [
+            {
+                "QueryCode": "GAM1382 ",
+                "Fullname": "Camara Civil y Comercial Presidencia"
+            },
+            {
+                "QueryCode": "GAM1420 ",
+                "Fullname": "Camara Civil y Comercial Sala I"
+            },
+            {
+                "QueryCode": "GAM1421 ",
+                "Fullname": "Camara Civil y Comercial Sala II"
+            },
+            {
+                "QueryCode": "GAM1650 ",
+                "Fullname": "Contencioso Administrativo 1 "
+            },
+            {
+                "QueryCode": "GAM1383 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 1"
+            },
+            {
+                "QueryCode": "GAM1384 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 2"
+            },
+            {
+                "QueryCode": "GAM1385 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 3"
+            },
+            {
+                "QueryCode": "GAM1386 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 4"
+            },
+            {
+                "QueryCode": "GAM1387 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 5"
+            },
+            {
+                "QueryCode": "GAM1388 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 6"
+            },
+            {
+                "QueryCode": "GAM1666 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 7"
+            },
+            {
+                "QueryCode": "GAM1667 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 8"
+            },
+            {
+                "QueryCode": "GAM2979 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 9"
+            },
+            {
+                "QueryCode": "GAM2980 ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 10"
+            },
+            {
+                "QueryCode": "GAM199  ",
+                "Fullname": "Tribunal del Trabajo Nro. 1"
+            },
+            {
+                "QueryCode": "GAM200  ",
+                "Fullname": "Tribunal del Trabajo Nro. 2"
+            },
+            {
+                "QueryCode": "GAM201  ",
+                "Fullname": "Tribunal del Trabajo Nro.  3"
+            },
+            {
+                "QueryCode": "GAM202  ",
+                "Fullname": "Tribunal del Trabajo Nro.  4"
+            },
+            {
+                "QueryCode": "GAM1050 ",
+                "Fullname": "Tribunal del Trabajo Nro.  5"
+            },
+            {
+                "QueryCode": "GAM1559 ",
+                "Fullname": "Secretaria de Apremios (Sistema Augusta)"
+            }
+        ]
+    },
+    {
+        "CreationCode": "LP",
+        "TrackingCode": "6",
+        "DistrictName": "La Plata",
+        "Courts": [
+            {
+                "QueryCode": "GAM1660 ",
+                "Fullname": "Cámara de Apelación en lo Contencioso Administrativo "
+            },
+            {
+                "QueryCode": "GAM1460 ",
+                "Fullname": "Cámara Primera en lo Civil y Comercial - PRESIDENCIA "
+            },
+            {
+                "QueryCode": "GAM210  ",
+                "Fullname": "Cámara Primera en lo Civil y Comercial - SALA   I"
+            },
+            {
+                "QueryCode": "GAM211  ",
+                "Fullname": "Cámara Primera en lo Civil y Comercial - SALA  II"
+            },
+            {
+                "QueryCode": "GAM212  ",
+                "Fullname": "Cámara Primera en lo Civil y Comercial - SALA III"
+            },
+            {
+                "QueryCode": "GAM1461 ",
+                "Fullname": "Cámara Segunda en lo Civil y Comercial - PRESIDENCIA "
+            },
+            {
+                "QueryCode": "GAM213  ",
+                "Fullname": "Cámara Segunda en lo Civil y Comercial - SALA   I"
+            },
+            {
+                "QueryCode": "GAM214  ",
+                "Fullname": "Cámara Segunda en lo Civil y Comercial - SALA  II"
+            },
+            {
+                "QueryCode": "GAM215  ",
+                "Fullname": "Cámara Segunda en lo Civil y Comercial - SALA  III"
+            },
+            {
+                "QueryCode": "GAM1624 ",
+                "Fullname": "Juzgado Contencioso Administrativo  1"
+            },
+            {
+                "QueryCode": "GAM1625 ",
+                "Fullname": "Juzgado Contencioso Administrativo  2"
+            },
+            {
+                "QueryCode": "GAM1677 ",
+                "Fullname": "Juzgado Contencioso Administrativo  3"
+            },
+            {
+                "QueryCode": "GAM2721 ",
+                "Fullname": "Juzgado Contencioso Administrativo  4"
+            },
+            {
+                "QueryCode": "GAM238  ",
+                "Fullname": "Juzgado Civil y Comercial  1"
+            },
+            {
+                "QueryCode": "GAM239  ",
+                "Fullname": "Juzgado Civil y Comercial  2"
+            },
+            {
+                "QueryCode": "GAM241  ",
+                "Fullname": "Juzgado Civil y Comercial  4 "
+            },
+            {
+                "QueryCode": "GAM242  ",
+                "Fullname": "Juzgado Civil y Comercial  5"
+            },
+            {
+                "QueryCode": "GAM243  ",
+                "Fullname": "Juzgado Civil y Comercial  6"
+            },
+            {
+                "QueryCode": "GAM244  ",
+                "Fullname": "Juzgado Civil y Comercial  7"
+            },
+            {
+                "QueryCode": "GAM245  ",
+                "Fullname": "Juzgado Civil y Comercial  8"
+            },
+            {
+                "QueryCode": "GAM246  ",
+                "Fullname": "Juzgado Civil y Comercial  9"
+            },
+            {
+                "QueryCode": "GAM247  ",
+                "Fullname": "Juzgado Civil y Comercial 10"
+            },
+            {
+                "QueryCode": "GAM248  ",
+                "Fullname": "Juzgado Civil y Comercial 11"
+            },
+            {
+                "QueryCode": "GAM249  ",
+                "Fullname": "Juzgado Civil y Comercial 12"
+            },
+            {
+                "QueryCode": "GAM250  ",
+                "Fullname": "Juzgado Civil y Comercial 13"
+            },
+            {
+                "QueryCode": "GAM251  ",
+                "Fullname": "Juzgado Civil y Comercial 14"
+            },
+            {
+                "QueryCode": "GAM253  ",
+                "Fullname": "Juzgado Civil y Comercial 16"
+            },
+            {
+                "QueryCode": "GAM254  ",
+                "Fullname": "Juzgado Civil y Comercial 17"
+            },
+            {
+                "QueryCode": "GAM255  ",
+                "Fullname": "Juzgado Civil y Comercial 18"
+            },
+            {
+                "QueryCode": "GAM256  ",
+                "Fullname": "Juzgado Civil y Comercial 19"
+            },
+            {
+                "QueryCode": "GAM257  ",
+                "Fullname": "Juzgado Civil y Comercial 20"
+            },
+            {
+                "QueryCode": "GAM258  ",
+                "Fullname": "Juzgado Civil y Comercial 21 "
+            },
+            {
+                "QueryCode": "GAM259  ",
+                "Fullname": "Juzgado Civil y Comercial 22 "
+            },
+            {
+                "QueryCode": "GAM260  ",
+                "Fullname": "Juzgado Civil y Comercial 23"
+            },
+            {
+                "QueryCode": "GAM262  ",
+                "Fullname": "Juzgado Civil y Comercial 25"
+            },
+            {
+                "QueryCode": "GAM264  ",
+                "Fullname": "Juzgado Civil y Comercial 27"
+            },
+            {
+                "QueryCode": "GAM301  ",
+                "Fullname": "Tribunal de Trabajo  1"
+            },
+            {
+                "QueryCode": "GAM302  ",
+                "Fullname": "Tribunal de Trabajo  2"
+            },
+            {
+                "QueryCode": "GAM303  ",
+                "Fullname": "Tribunal de Trabajo  3 "
+            },
+            {
+                "QueryCode": "GAM304  ",
+                "Fullname": "Tribunal de Trabajo  4"
+            },
+            {
+                "QueryCode": "GAM1048 ",
+                "Fullname": "Tribunal de Trabajo  5 "
+            },
+            {
+                "QueryCode": "GAM266  ",
+                "Fullname": "Juzgado Notarial de la Provincia"
+            },
+            {
+                "QueryCode": "GAM1584 ",
+                "Fullname": "Secretaría de Apremios"
+            }
+        ]
+    },
+    {
+        "CreationCode": "LZ",
+        "TrackingCode": "16",
+        "DistrictName": "Lomas de Zamora",
+        "Courts": [
+            {
+                "QueryCode": "GAM328  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM329  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM330  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM331  ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM332  ",
+                "Fullname": "Juzgado Civil y Comercial N° 5"
+            },
+            {
+                "QueryCode": "GAM333  ",
+                "Fullname": "Juzgado Civil y Comercial N° 6"
+            },
+            {
+                "QueryCode": "GAM334  ",
+                "Fullname": "Juzgado Civil y Comercial N° 7"
+            },
+            {
+                "QueryCode": "GAM335  ",
+                "Fullname": "Juzgado Civil y Comercial N° 8"
+            },
+            {
+                "QueryCode": "GAM336  ",
+                "Fullname": "Juzgado Civil y Comercial N° 9"
+            },
+            {
+                "QueryCode": "GAM337  ",
+                "Fullname": "Juzgado Civil y Comercial N° 10"
+            },
+            {
+                "QueryCode": "GAM338  ",
+                "Fullname": "Juzgado Civil y Comercial N° 11"
+            },
+            {
+                "QueryCode": "GAM339  ",
+                "Fullname": "Juzgado Civil y Comercial N° 12"
+            },
+            {
+                "QueryCode": "GAM340  ",
+                "Fullname": "Juzgado Civil y Comercial N° 13 "
+            },
+            {
+                "QueryCode": "GAM341  ",
+                "Fullname": "Juzgado Civil y Comercial N° 14"
+            },
+            {
+                "QueryCode": "GAM3612 ",
+                "Fullname": "Juzgado Civil y Comercial N° 15"
+            },
+            {
+                "QueryCode": "GAM3613 ",
+                "Fullname": "Juzgado Civil y Comercial N° 16"
+            },
+            {
+                "QueryCode": "GAM363  ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM364  ",
+                "Fullname": "Tribunal de Trabajo N° 2"
+            },
+            {
+                "QueryCode": "GAM365  ",
+                "Fullname": "Tribunal de Trabajo N° 3"
+            },
+            {
+                "QueryCode": "GAM366  ",
+                "Fullname": "Tribunal de Trabajo N° 4"
+            },
+            {
+                "QueryCode": "GAM1053 ",
+                "Fullname": "Tribunal de Trabajo N° 5"
+            },
+            {
+                "QueryCode": "GAM1630 ",
+                "Fullname": "Juzgado Contencioso Administrativo N° 1"
+            },
+            {
+                "QueryCode": "GAM2436 ",
+                "Fullname": "Juzgado Contencioso Administrativo N° 2"
+            },
+            {
+                "QueryCode": "GAM2062 ",
+                "Fullname": "Presidencia de Cámara Civil"
+            },
+            {
+                "QueryCode": "GAM312  ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala I"
+            },
+            {
+                "QueryCode": "GAM313  ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala II"
+            },
+            {
+                "QueryCode": "GAM2063 ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala III"
+            }
+        ]
+    },
+    {
+        "CreationCode": "MP",
+        "TrackingCode": "17",
+        "DistrictName": "Mar del Plata",
+        "Courts": [
+            {
+                "QueryCode": "GAM2074 ",
+                "Fullname": "Cámara Civil y Comercial - Presidencia"
+            },
+            {
+                "QueryCode": "GAM477  ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala 1ra"
+            },
+            {
+                "QueryCode": "GAM478  ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala 2da"
+            },
+            {
+                "QueryCode": "GAM2066 ",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala 3ra"
+            },
+            {
+                "QueryCode": "GAM1786 ",
+                "Fullname": "Cámara de Apelación en lo Contencioso Administrativo"
+            },
+            {
+                "QueryCode": "GAM490  ",
+                "Fullname": "Juzgado Civil y Comercial N°  1"
+            },
+            {
+                "QueryCode": "GAM491  ",
+                "Fullname": "Juzgado Civil y Comercial N°  2"
+            },
+            {
+                "QueryCode": "GAM492  ",
+                "Fullname": "Juzgado Civil y Comercial N°  3"
+            },
+            {
+                "QueryCode": "GAM493  ",
+                "Fullname": "Juzgado Civil y Comercial N°  4"
+            },
+            {
+                "QueryCode": "GAM494  ",
+                "Fullname": "Juzgado Civil y Comercial N°  5"
+            },
+            {
+                "QueryCode": "GAM495  ",
+                "Fullname": "Juzgado Civil y Comercial N°  6"
+            },
+            {
+                "QueryCode": "GAM496  ",
+                "Fullname": "Juzgado Civil y Comercial N°  7"
+            },
+            {
+                "QueryCode": "GAM497  ",
+                "Fullname": "Juzgado Civil y Comercial N°  8"
+            },
+            {
+                "QueryCode": "GAM498  ",
+                "Fullname": "Juzgado Civil y Comercial N°  9"
+            },
+            {
+                "QueryCode": "GAM499  ",
+                "Fullname": "Juzgado Civil y Comercial N° 10"
+            },
+            {
+                "QueryCode": "GAM1076 ",
+                "Fullname": "Juzgado Civil y Comercial N° 11"
+            },
+            {
+                "QueryCode": "GAM1077 ",
+                "Fullname": "Juzgado Civil y Comercial N° 12"
+            },
+            {
+                "QueryCode": "GAM1078 ",
+                "Fullname": "Juzgado Civil y Comercial N° 13"
+            },
+            {
+                "QueryCode": "GAM1557 ",
+                "Fullname": "Juzgado Civil y Comercial N° 14"
+            },
+            {
+                "QueryCode": "GAM2982 ",
+                "Fullname": "Juzgado Civil y Comercial N° 15"
+            },
+            {
+                "QueryCode": "GAM2981 ",
+                "Fullname": "Juzgado Civil y Comercial N° 16"
+            },
+            {
+                "QueryCode": "GAM1627 ",
+                "Fullname": "Juzgado Contencioso Administrativo N°  1"
+            },
+            {
+                "QueryCode": "GAM1628 ",
+                "Fullname": "Juzgado Contencioso Administrativo N°  2"
+            },
+            {
+                "QueryCode": "GAM1799 ",
+                "Fullname": "Secretaria de Apremios"
+            },
+            {
+                "QueryCode": "GAM515  ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM516  ",
+                "Fullname": "Tribunal de Trabajo N° 2"
+            },
+            {
+                "QueryCode": "GAM517  ",
+                "Fullname": "Tribunal de Trabajo N° 3"
+            },
+            {
+                "QueryCode": "GAM2149 ",
+                "Fullname": "Tribunal de Trabajo N° 4"
+            },
+            {
+                "QueryCode": "GAM3746 ",
+                "Fullname": "Tribunal de Trabajo N° 5"
+            }
+        ]
+    },
+    {
+        "CreationCode": "ME",
+        "TrackingCode": "18",
+        "DistrictName": "Mercedes",
+        "Courts": [
+            {
+                "QueryCode": "GAM381  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM382  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM383  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM384  ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM385  ",
+                "Fullname": "Juzgado Civil y Comercial N° 5"
+            },
+            {
+                "QueryCode": "GAM386  ",
+                "Fullname": "Juzgado Civil y Comercial N° 6 "
+            },
+            {
+                "QueryCode": "GAM387  ",
+                "Fullname": "Juzgado Civil y Comercial N° 7"
+            },
+            {
+                "QueryCode": "GAM388  ",
+                "Fullname": "Juzgado Civil y Comercial N° 8"
+            },
+            {
+                "QueryCode": "GAM389  ",
+                "Fullname": "Juzgado Civil y Comercial N° 9"
+            },
+            {
+                "QueryCode": "GAM390  ",
+                "Fullname": "Juzgado Civil y Comercial N° 10"
+            },
+            {
+                "QueryCode": "GAM1633 ",
+                "Fullname": "Juzgado Contencioso Administrativo"
+            },
+            {
+                "QueryCode": "GAM405  ",
+                "Fullname": "Tribunal de trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM2072 ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial - Presidencia"
+            },
+            {
+                "QueryCode": "GAM370  ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial - Sala I"
+            },
+            {
+                "QueryCode": "GAM371  ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial - Sala II"
+            },
+            {
+                "QueryCode": "GAM2068 ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial - Sala III"
+            },
+            {
+                "QueryCode": "GAM80   ",
+                "Fullname": "Tribunal de trabajo N° 3 - Bragado"
+            }
+        ]
+    },
+    {
+        "CreationCode": "MR",
+        "TrackingCode": "52",
+        "DistrictName": "Moreno - Gral. Rodriguez",
+        "Courts": [
+            {
+                "QueryCode": "GAM2254 ",
+                "Fullname": "Juzgado Civil y Comercial N°1"
+            },
+            {
+                "QueryCode": "GAM2255 ",
+                "Fullname": "Juzgado Civil y Comercial N°2"
+            },
+            {
+                "QueryCode": "GAM2257 ",
+                "Fullname": "Juzgado Civil y Comercial N°3"
+            },
+            {
+                "QueryCode": "GAM3431 ",
+                "Fullname": "Juzgado Civil y Comercial N°4"
+            },
+            {
+                "QueryCode": "GAM2227 ",
+                "Fullname": "Tribunal de Trabajo de Moreno "
+            }
+        ]
+    },
+    {
+        "CreationCode": "MRF",
+        "TrackingCode": "52",
+        "DistrictName": "Moreno - Gral. Rodriguez Flia",
+        "Courts": [
+            {
+                "QueryCode": "GAM2254 ",
+                "Fullname": "Juzgado Civil y Comercial N°1"
+            },
+            {
+                "QueryCode": "GAM2255 ",
+                "Fullname": "Juzgado Civil y Comercial N°2"
+            },
+            {
+                "QueryCode": "GAM2257 ",
+                "Fullname": "Juzgado Civil y Comercial N°3"
+            },
+            {
+                "QueryCode": "GAM3431 ",
+                "Fullname": "Juzgado Civil y Comercial N°4"
+            },
+            {
+                "QueryCode": "GAM2227 ",
+                "Fullname": "Tribunal de Trabajo de Moreno "
+            }
+        ]
+    },
+    {
+        "CreationCode": "MO",
+        "TrackingCode": "19",
+        "DistrictName": "Moron",
+        "Courts": [
+            {
+                "QueryCode": "GAM415  ",
+                "Fullname": "Cámara Civil y Comercial - Sala 1ra."
+            },
+            {
+                "QueryCode": "GAM416  ",
+                "Fullname": "Cámara Civil y Comercial - Sala 2da."
+            },
+            {
+                "QueryCode": "GAM2069 ",
+                "Fullname": "Cámara Civil y Comercial - Sala 3ra."
+            },
+            {
+                "QueryCode": "GAM2073 ",
+                "Fullname": "Cámara Civil y Comercial - Secretaria de Presidencia"
+            },
+            {
+                "QueryCode": "GAM430  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM431  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM432  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM433  ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM434  ",
+                "Fullname": "Juzgado Civil y Comercial N° 5"
+            },
+            {
+                "QueryCode": "GAM435  ",
+                "Fullname": "Juzgado Civil y Comercial N° 6"
+            },
+            {
+                "QueryCode": "GAM436  ",
+                "Fullname": "Juzgado Civil y Comercial N° 7"
+            },
+            {
+                "QueryCode": "GAM437  ",
+                "Fullname": "Juzgado Civil y Comercial N° 8"
+            },
+            {
+                "QueryCode": "GAM438  ",
+                "Fullname": "Juzgado Civil y Comercial N° 9"
+            },
+            {
+                "QueryCode": "GAM439  ",
+                "Fullname": "Juzgado Civil y Comercial N° 10"
+            },
+            {
+                "QueryCode": "GAM440  ",
+                "Fullname": "Juzgado Civil y Comercial N° 11"
+            },
+            {
+                "QueryCode": "GAM441  ",
+                "Fullname": "Juzgado Civil y Comercial N° 12"
+            },
+            {
+                "QueryCode": "GAM1645 ",
+                "Fullname": "Juzgado en lo Contencioso Administrativo N° 1 de Morón"
+            },
+            {
+                "QueryCode": "GAM459  ",
+                "Fullname": "Registro Público de Comercio - Secretaría de Apremios"
+            },
+            {
+                "QueryCode": "GAM468  ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM469  ",
+                "Fullname": "Tribunal de Trabajo N° 2"
+            },
+            {
+                "QueryCode": "GAM470  ",
+                "Fullname": "Tribunal de Trabajo N° 3"
+            },
+            {
+                "QueryCode": "GAM471  ",
+                "Fullname": "Tribunal de Trabajo N° 4"
+            },
+            {
+                "QueryCode": "GAM472  ",
+                "Fullname": "Tribunal de Trabajo N° 5"
+            }
+        ]
+    },
+    {
+        "CreationCode": "NE",
+        "TrackingCode": "20",
+        "DistrictName": "Necochea",
+        "Courts": [
+            {
+                "QueryCode": "GAM1634 ",
+                "Fullname": "Juzgado Contencioso 1"
+            },
+            {
+                "QueryCode": "GAM529  ",
+                "Fullname": "Juzgado Civil Y Comercial N°2"
+            },
+            {
+                "QueryCode": "GAM536  ",
+                "Fullname": "Tribunal de Trabajo N°1"
+            },
+            {
+                "QueryCode": "GAM528  ",
+                "Fullname": "Juzgado Civil Y Comercial N°1"
+            },
+            {
+                "QueryCode": "GAM1856 ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial"
+            }
+        ]
+    },
+    {
+        "CreationCode": "OL",
+        "TrackingCode": "21",
+        "DistrictName": "Olavarría",
+        "Courts": [
+            {
+                "QueryCode": "GAM541  ",
+                "Fullname": "Juzgado Civil y Comercial  N° 1"
+            },
+            {
+                "QueryCode": "GAM1351 ",
+                "Fullname": "Juzgado Civil y Comercial  N° 2"
+            },
+            {
+                "QueryCode": "GAM544  ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            }
+        ]
+    },
+    {
+        "CreationCode": "PE",
+        "TrackingCode": "22",
+        "DistrictName": "Pergamino",
+        "Courts": [
+            {
+                "QueryCode": "GAM1644 ",
+                "Fullname": "Juzgado Contencioso"
+            },
+            {
+                "QueryCode": "GAM2090 ",
+                "Fullname": "Camara Civil"
+            },
+            {
+                "QueryCode": "GAM567  ",
+                "Fullname": "Tribunal de Trabajo  N° 1 "
+            },
+            {
+                "QueryCode": "GAM558  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM557  ",
+                "Fullname": "Juzgado Civil y Comercial N°  2  "
+            },
+            {
+                "QueryCode": "GAM556  ",
+                "Fullname": "Juzgado Civil y Comercial N°  1 "
+            }
+        ]
+    },
+    {
+        "CreationCode": "QU",
+        "TrackingCode": "23",
+        "DistrictName": "Quilmes",
+        "Courts": [
+            {
+                "QueryCode": "GAM591  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 1"
+            },
+            {
+                "QueryCode": "GAM592  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 2"
+            },
+            {
+                "QueryCode": "GAM593  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 3"
+            },
+            {
+                "QueryCode": "GAM594  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 4"
+            },
+            {
+                "QueryCode": "GAM595  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 5"
+            },
+            {
+                "QueryCode": "GAM596  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 6"
+            },
+            {
+                "QueryCode": "GAM597  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 7"
+            },
+            {
+                "QueryCode": "GAM598  ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 8"
+            },
+            {
+                "QueryCode": "GAM1945 ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 9"
+            },
+            {
+                "QueryCode": "GAM2023 ",
+                "Fullname": "Juzgado en lo Civil y Comercial Nro. 10"
+            },
+            {
+                "QueryCode": "GAM577  ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial Sala I"
+            },
+            {
+                "QueryCode": "GAM578  ",
+                "Fullname": "Cámara de Apelaciones en lo Civil y Comercial Sala II"
+            },
+            {
+                "QueryCode": "GAM1552 ",
+                "Fullname": "Secretaría de Apremios y RPC"
+            },
+            {
+                "QueryCode": "GAM1636 ",
+                "Fullname": "Juzgado en lo Contencioso Administrativo N° 1"
+            },
+            {
+                "QueryCode": "GAM611  ",
+                "Fullname": "Tribunal de Trabajo N° 1"
+            },
+            {
+                "QueryCode": "GAM612  ",
+                "Fullname": "Tribunal de Trabajo N° 2"
+            },
+            {
+                "QueryCode": "GAM613  ",
+                "Fullname": "Tribunal de Trabajo N° 3"
+            },
+            {
+                "QueryCode": "GAM1051 ",
+                "Fullname": "Tribunal de Trabajo N° 4"
+            },
+            {
+                "QueryCode": "GAM1052 ",
+                "Fullname": "Tribunal de Trabajo N° 5"
+            },
+            {
+                "QueryCode": "GAM2976 ",
+                "Fullname": "Tribunal de Trabajo N° 1 Florencio Varela"
+            }
+        ]
+    },
+    {
+        "CreationCode": "SI",
+        "TrackingCode": "24",
+        "DistrictName": "San Isidro",
+        "Courts": [
+            {
+                "QueryCode": "GAM643",
+                "Fullname": "Juzgado Civil y Comercial 1"
+            },
+            {
+                "QueryCode": "GAM644",
+                "Fullname": "Juzgado Civil y Comercial 2"
+            },
+            {
+                "QueryCode": "GAM645",
+                "Fullname": "Juzgado Civil y Comercial 3"
+            },
+            {
+                "QueryCode": "GAM646",
+                "Fullname": "Juzgado Civil y Comercial 4"
+            },
+            {
+                "QueryCode": "GAM647",
+                "Fullname": "Juzgado Civil y Comercial 5"
+            },
+            {
+                "QueryCode": "GAM648",
+                "Fullname": "Juzgado Civil y Comercial 6"
+            },
+            {
+                "QueryCode": "GAM649",
+                "Fullname": "Juzgado Civil y Comercial 7"
+            },
+            {
+                "QueryCode": "GAM650",
+                "Fullname": "Juzgado Civil y Comercial 8"
+            },
+            {
+                "QueryCode": "GAM651",
+                "Fullname": "Juzgado Civil y Comercial 9"
+            },
+            {
+                "QueryCode": "GAM652",
+                "Fullname": "Juzgado Civil y Comercial 10"
+            },
+            {
+                "QueryCode": "GAM653 ",
+                "Fullname": "Juzgado Civil y Comercial 11"
+            },
+            {
+                "QueryCode": "GAM654",
+                "Fullname": "Juzgado Civil y Comercial 12"
+            },
+            {
+                "QueryCode": "GAM655",
+                "Fullname": "Juzgado Civil y Comercial 13"
+            },
+            {
+                "QueryCode": "GAM656",
+                "Fullname": "Juzgado Civil y Comercial 14"
+            },
+            {
+                "QueryCode": "GAM2955",
+                "Fullname": "Juzgado Civil y Comercial 15"
+            },
+            {
+                "QueryCode": "GAM2956",
+                "Fullname": "Juzgado Civil y Comercial 16"
+            },
+            {
+                "QueryCode": "GAM681",
+                "Fullname": "Tribunal de Trabajo 1"
+            },
+            {
+                "QueryCode": "GAM682",
+                "Fullname": "Tribunal de Trabajo 2"
+            },
+            {
+                "QueryCode": "GAM683",
+                "Fullname": "Tribunal de Trabajo 3"
+            },
+            {
+                "QueryCode": "GAM1096",
+                "Fullname": "Tribunal de Trabajo 4"
+            },
+            {
+                "QueryCode": "GAM1097",
+                "Fullname": "Tribunal de Trabajo 5"
+            },
+            {
+                "QueryCode": "GAM1098",
+                "Fullname": "Tribunal de Trabajo 6"
+            },
+            {
+                "QueryCode": "GAM2133",
+                "Fullname": "Tribunal de Trabajo 7 (Pilar)"
+            },
+            {
+                "QueryCode": "GAM1637",
+                "Fullname": "Juzgado Contencioso Administrativo 1"
+            },
+            {
+                "QueryCode": "GAM2264 ",
+                "Fullname": "Juzgado Contencioso Administrativo 2"
+            },
+            {
+                "QueryCode": "GAM627",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala I"
+            },
+            {
+                "QueryCode": "GAM628",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala II"
+            },
+            {
+                "QueryCode": "GAM2070",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Sala III"
+            },
+            {
+                "QueryCode": "GAM2077",
+                "Fullname": "Cámara de Apelación en lo Civil y Comercial - Presidencia"
+            }
+        ]
+    },
+    {
+        "CreationCode": "SM",
+        "TrackingCode": "25",
+        "DistrictName": "San Martín",
+        "Courts": [
+            {
+                "QueryCode": "GAM2076 ",
+                "Fullname": "Cámara Civil y Comercial - Presidencia"
+            },
+            {
+                "QueryCode": "GAM689  ",
+                "Fullname": "Cámara Civil y Comercial - Sala 01"
+            },
+            {
+                "QueryCode": "GAM690  ",
+                "Fullname": "Cámara Civil y Comercial - Sala 02"
+            },
+            {
+                "QueryCode": "GAM2067 ",
+                "Fullname": "Cámara Civil y Comercial - Sala 03"
+            },
+            {
+                "QueryCode": "GAM703  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 01"
+            },
+            {
+                "QueryCode": "GAM704  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 02"
+            },
+            {
+                "QueryCode": "GAM705  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 03"
+            },
+            {
+                "QueryCode": "GAM706  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 04"
+            },
+            {
+                "QueryCode": "GAM707  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 05"
+            },
+            {
+                "QueryCode": "GAM708  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 06"
+            },
+            {
+                "QueryCode": "GAM709  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 07"
+            },
+            {
+                "QueryCode": "GAM710  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 08"
+            },
+            {
+                "QueryCode": "GAM711  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 09"
+            },
+            {
+                "QueryCode": "GAM712  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 10"
+            },
+            {
+                "QueryCode": "GAM713  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 11"
+            },
+            {
+                "QueryCode": "GAM714  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 12"
+            },
+            {
+                "QueryCode": "GAM734  ",
+                "Fullname": "Tribunal de Trabajo Nro. 01"
+            },
+            {
+                "QueryCode": "GAM1111 ",
+                "Fullname": "Tribunal de Trabajo Nro. 01 - San Miguel"
+            },
+            {
+                "QueryCode": "GAM735  ",
+                "Fullname": "Tribunal de Trabajo Nro. 02"
+            },
+            {
+                "QueryCode": "GAM1858 ",
+                "Fullname": "Tribunal de Trabajo Nro. 02 - San Miguel"
+            },
+            {
+                "QueryCode": "GAM736  ",
+                "Fullname": "Tribunal de Trabajo Nro. 03"
+            },
+            {
+                "QueryCode": "GAM737  ",
+                "Fullname": "Tribunal de Trabajo Nro. 04"
+            },
+            {
+                "QueryCode": "GAM1108 ",
+                "Fullname": "Tribunal de Trabajo Nro. 05"
+            },
+            {
+                "QueryCode": "GAM1661 ",
+                "Fullname": "Cámara Contencioso Administrativa"
+            },
+            {
+                "QueryCode": "GAM1629 ",
+                "Fullname": "Juzgado Contencioso Administrativo Nro. 01"
+            },
+            {
+                "QueryCode": "GAM1879 ",
+                "Fullname": "Juzgado Contencioso Administrativo Nro. 02"
+            }
+        ]
+    },
+    {
+        "CreationCode": "SN",
+        "TrackingCode": "26",
+        "DistrictName": "San Nicolas",
+        "Courts": [
+            {
+                "QueryCode": "GAM747  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM748  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM749  ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM750  ",
+                "Fullname": "Juzgado Civil y Comercial N° 4"
+            },
+            {
+                "QueryCode": "GAM751  ",
+                "Fullname": "Juzgado Civil y Comercial N° 5"
+            },
+            {
+                "QueryCode": "GAM752  ",
+                "Fullname": "Juzgado Civil y Comercial N° 6"
+            },
+            {
+                "QueryCode": "GAM1631 ",
+                "Fullname": "Juzgado En Lo Contencioso Administrativo 1"
+            },
+            {
+                "QueryCode": "GAM1692 ",
+                "Fullname": "Cámara En Lo Contencioso Administrativo"
+            },
+            {
+                "QueryCode": "GAM764  ",
+                "Fullname": "Tribunal en lo Laboral N° 1"
+            },
+            {
+                "QueryCode": "GAM1041 ",
+                "Fullname": "Tribunal en lo Laboral N° 2"
+            },
+            {
+                "QueryCode": "GAM3496 ",
+                "Fullname": "Tribunal en lo Laboral N° 3"
+            },
+            {
+                "QueryCode": "GAM2075 ",
+                "Fullname": "Exma. Camara de Apelaciones en lo Civil y Comercial"
+            }
+        ]
+    },
+    {
+        "CreationCode": "TN",
+        "TrackingCode": "27",
+        "DistrictName": "Tandil",
+        "Courts": [
+            {
+                "QueryCode": "GAM797  ",
+                "Fullname": "Juzgado Civil y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM798  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2 "
+            },
+            {
+                "QueryCode": "GAM2039 ",
+                "Fullname": "Juzgado Civil y Comercial N° 3"
+            },
+            {
+                "QueryCode": "GAM803  ",
+                "Fullname": "Tribunal del Trabajo Tandil"
+            }
+        ]
+    },
+    {
+        "CreationCode": "TL",
+        "TrackingCode": "28",
+        "DistrictName": "Trenque Lauquen",
+        "Courts": [
+            {
+                "QueryCode": "GAM780  ",
+                "Fullname": "Juzgado Civil  y Comercial N° 1"
+            },
+            {
+                "QueryCode": "GAM1647 ",
+                "Fullname": "Contencioso Administrativo N° 1"
+            },
+            {
+                "QueryCode": "GAM790  ",
+                "Fullname": "Tribunal del Trabajo"
+            },
+            {
+                "QueryCode": "GAM781  ",
+                "Fullname": "Juzgado Civil y Comercial N° 2"
+            },
+            {
+                "QueryCode": "GAM774  ",
+                "Fullname": "Camara de Apelacion Civil y Comercial - Trenque Lauquen"
+            }
+        ]
+    },
+    {
+        "CreationCode": "TY",
+        "TrackingCode": "49",
+        "DistrictName": "Tres Arroyos",
+        "Courts": [
+            {
+                "QueryCode": "GAM809  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 1 Tres Arroyos"
+            },
+            {
+                "QueryCode": "GAM810  ",
+                "Fullname": "Juzgado Civil y Comercial Nro. 2  Tres Arroyos"
+            },
+            {
+                "QueryCode": "GAM1405 ",
+                "Fullname": "Tribunal de Trabajo Nro. 3  Tres Arroyos"
+            }
+        ]
+    },
+    {
+        "CreationCode": "ZC",
+        "TrackingCode": "29",
+        "DistrictName": "Zarate/Campana",
+        "Courts": [
+            {
+                "QueryCode": "GAM87   ",
+                "Fullname": "Juzgado Civil y Comercial  1"
+            },
+            {
+                "QueryCode": "GAM819  ",
+                "Fullname": "Juzgado Civil y Comercial  2"
+            },
+            {
+                "QueryCode": "GAM1576 ",
+                "Fullname": "Juzgado Civil y Comercial  3"
+            },
+            {
+                "QueryCode": "GAM1581 ",
+                "Fullname": "Juzgado Civil y Comercial  4"
+            },
+            {
+                "QueryCode": "GAM1947 ",
+                "Fullname": "Camara de Apelación en lo Civil y Comercial"
+            },
+            {
+                "QueryCode": "GAM823  ",
+                "Fullname": "Tribunal de Trabajo N°2 Zarate"
+            },
+            {
+                "QueryCode": "GAM1042 ",
+                "Fullname": "Tribunal de Trabajo N°1 Campana"
+            },
+            {
+                "QueryCode": "GAM3482 ",
+                "Fullname": "Tribunal de Trabajo N°3 Campana"
+            },
+            {
+                "QueryCode": "GAM1638 ",
+                "Fullname": "Juzgado Contencioso Administrativo "
+            }
+        ]
+    }
+]

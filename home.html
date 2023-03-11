@@ -1,0 +1,368 @@
+"\r\n
+<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\r\n
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n\r\n<html>\r\n
+
+<head>\r\n<title>Mesa de Entradas Virtual</title>\r\n
+    <script
+        type=\"text/javascript\">\r\n<!--\r\n\r\nestilo=\"estilo.css\";\r\n\r\nif (screen.availWidth <= 800) {estilo=\"estilo800600.css\"};\r\n\r\ndocument.write(\"<link rel=\\\"stylesheet\\\" href=\\\"\" + estilo + \"\\\" />\")\r\n\r\n-->\r\n</script>
+    \r\n
+    <script type=\"text/javascript\" src=\"mev.js?V=5\">\r\n<!--\r\n//-->\r\n</script>\r\n
+    <script>\r\n(function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { \r\n(i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), \r\n  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) \r\n })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); \r\n \r\n  ga('create', 'UA-52485560-3', 'auto'); \r\n  ga('send', 'pageview'); \r\n \r\n</script>
+    \r\n\r\n
+    <SCRIPT
+        type=text/javascript>\r\n<!--\r\n  if(navigator.appName == \"Netscape\"){\r\n  document.captureEvents(Event.MOUSEMOVE);\r\n  document.onmousemove = netscapeMouseMove;}\r\n\r\nfunction netscapeMouseMove(e) {\r\n  document.puntero.y.value = e.clientY + document.body.scrollTop + document.documentElement.scrollTop + 5;\r\n  document.puntero.x.value = e.clientX + document.body.scrollLeft + document.documentElement.scrollLeft - 50;} \r\n\r\nfunction MM_findObj(n, d) { //v4.01\r\n  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {\r\n    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}\r\n  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];\r\n  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);\r\n  if(!x && d.getElementById) x=d.getElementById(n); return x;\r\n}\r\n\r\nfunction MM_showHideLayers() { //v6.0\r\n  var i,p,v,x,y,obj,args=MM_showHideLayers.arguments;\r\n  if(navigator.appName == \"Netscape\")\r\n  {y = document.puntero.y.value;\r\n  x = document.puntero.x.value;}\r\n  else {y = window.event.clientY + document.body.scrollTop + document.documentElement.scrollTop + 5;\r\n  x = window.event.clientX + document.body.scrollLeft + document.documentElement.scrollLeft - 50;}\r\n  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];\r\n  if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }\r\n  obj.visibility=v; obj.left=(x + \"px\"); obj.top=(y + \"px\");}\r\n}\r\nfunction MM_jumpMenu(targ,selObj,restore){ //v3.0\r\n    eval(targ+\".location='\"+selObj.options[selObj.selectedIndex].value+\"'\");\r\n  if (restore) selObj.selectedIndex=0;\r\n}\r\n\r\nfunction MoverDeOrden() {\r\n    var selectBox = document.getElementById(\"selectColumna\");\r\n    var selectedValue = selectBox.options[selectBox.selectedIndex].value;\r\n    document.location.href = selectedValue;\r\n}\r\n\r\n-->\r\n</SCRIPT>
+    \r\n
+</head>\r\n
+
+<body>\r\n
+    <link rel=\"stylesheet\" href=\"estilo2014.css\" />\r\n\r\n\r\n\r\n
+    <script
+        type=\"text/javascript\">\r\n<!--\r\nvar estilo = \"estilo2014.css\";\r\nif (screen.availWidth <= 1024) {estilo=\"estilomenor1024.css\"};\r\ndocument.write(\"<link rel=\\\"stylesheet\\\" href=\\\"\" + estilo + \"\\\" />\")\r\n-->\r\n</script>
+    \r\n\r\n<table class=\"pegada\">
+        <tr>
+            <td class=\"fondonuevo\" style=\"text-align:center\">\r\n
+                <script
+                    type=\"text/javascript\">\r\n<!--\r\nalto = \"169px\";\r\nancho = \"1104px\";\r\nif (screen.availWidth <= 1024) {ancho=\"1000px\"; alto=\"153px\"};\r\nif (screen.availWidth <= 800) {ancho=\"770px\"; alto=\"117px\"};\r\n// texto = \"<img style=\\\"width: \" + ancho + \"; height: \" + alto + \";\\\" src=\\\"frisomev.jpg\\\" /></a>\";\r\n texto = \"<img src=\\\"frisomev.jpg\\\" />\";\r\ndocument.write(texto);\r\n\r\n-->\r\n\r\n</script>
+                \r\n
+            </td>
+        </tr>
+        <table>\r\n\r\n\r\n\r\n\r\n<p class=\"renglonchico\">&nbsp;</p>\r\n<table class=\"marco\">
+                <tr>
+                    <td>
+                        <table class=\"pegada\">\r\n<tr>\r\n<td class=\"fondoazul\" width=\"33%\">
+                                    <p class=\"whiteleft\">\r\n \r\nUsuarioMEV:&nbsp;<b>lcorrea</b>&nbsp;</b> \r\n \r\n
+                                        <img src=\"images/TildeVerde.jpg\" width=\"30px\" alt=\"Usuario apto para
+                                            solicitar autorizaciones de causas\" title=\"Usuario apto para solicitar
+                                            autorizaciones de causas\" /><br /><b> Usuario apto para solicitar
+                                            autorizaciones de causas</b>\r\n \r\n<br> \r\nNombre:&nbsp;<b>Leandro
+                                            Ernesto Correa</b> \r\n\r\n</p>\r\n
+                                </td>\r\n<td class=\"fondoazul\" width=\"34%\">
+                                    <p class=\"whitecenter\">Juzgado en lo Civil y Comercial Nro. 1\r\n</p>\r\n
+                                </td>\r\n<td class=\"fondoazul\" width=\"33%\">
+                                    <p class=\"whiteright\">Quilmes\r\n</p>\r\n
+                                </td>\r\n</tr>\r\n</table>
+                        \r\n<!-- <table class=\"pegada\"><tr><td class=\"fondoazulclaro\">\r\n<p class=\"center\">Juzgado en lo Civil y Comercial Nro. 1\r\n</p></td></tr>\r\n</table>  -->\r\n
+                        <table class=\"pegada\">\r\n <tr>
+                                <td class=\"fondoclaro\">
+                                    <p class=\"center\">Expresi�n de b�squeda&nbsp;<b>Car�tula: montanari</b></p>
+                                </td>
+                            </tr>\r\n \r\n <tr>
+                                <td>
+                                    <p class=\"bigcenter\">\r\n <a style=\"color: #003063\"
+                                            href=\"ayuda.asp\">Ayuda</a>&nbsp;&nbsp;&nbsp;&nbsp;\r\n <a style=\"color:
+                                            #003063\" href=\"Busqueda.asp\">Nueva
+                                            B�squeda</a>&nbsp;&nbsp;&nbsp;&nbsp;\r\n <a style=\"color: #003063\"
+                                            href=\"Sets.asp\">Organizar Mis Sets</a>&nbsp;&nbsp;&nbsp;&nbsp;\r\n <a
+                                            style=\"color: #003063\" href=\"POSloguin.asp\">Cambiar
+                                            Jurisdicci�n</a>&nbsp;&nbsp;&nbsp;&nbsp;\r\n <a style=\"color: #003063\"
+                                            href=\"loguin.asp\">Desconectarse</a>
+                                </td>
+                            </tr>\r\n \r\n </table>\r\n <br>\r\n\t\r\n<form id=\"form1\" name=\"form1\"
+                            action=\"MuestraCausas.asp?\" method=\"post\">\r\n<font size=2 color=\"#003063\"><b>Usuario
+                                    SIN Set de B�squeda</b></font> \r\n <table class=pegada> \r\n <tr>
+                                    <td class=left>
+                                        <p>Ordenar por: \r\n <SELECT style=\"FONT-SIZE: 10px\"
+                                                onchange=\"MoverDeOrden()\" name=menu1 id=\"selectColumna\">\r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xCa&pagina=1&pOrden=xCa&pOrdenAD=Asc&NroColumna=1
+                                                    selected>Car�tula (ascendente)</OPTION> \r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xCa&pagina=1&pOrden=xCa&pOrdenAD=Desc&NroColumna=1>
+                                                    Car�tula (descendente)</OPTION> \r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xNc&pagina=1&pOrden=xNc&pOrdenAD=Asc&NroColumna=2>
+                                                    Nro.Expediente (ascendente)</OPTION>\r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xNc&pagina=1&pOrden=xNc&pOrdenAD=Desc&NroColumna=2>
+                                                    Nro.Expediente (descendente)</OPTION>\r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xFi&pagina=1&pOrden=xFi&pOrdenAD=Asc&NroColumna=3>
+                                                    Inicio (ascendente)</OPTION>\r\n <OPTION
+                                                    value=MuestraCausas.asp?radio=xFi&pagina=1&pOrden=xFi&pOrdenAD=Desc&NroColumna=3>
+                                                    Inicio (descendente)</OPTION>\r\n </SELECT>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </p>
+                                    </td> \r\n <td>
+                                        <p class=right> \r\n
+                                        <p class=\"right\">Total Expedientes : 9&nbsp;&nbsp;&nbsp;&nbsp; \r\n </p>
+                                    </td>
+                                </tr>
+                            </table>\r\n \r\n<br>\r\n<TABLE class=pegada>\r\n <TBODY> \r\n \r\n <TR class=fondoceleste>
+                                        \r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=226552 name=\"Marcados\">\r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=226552&pidJuzgado=GAM591\">MONTANARI,
+                                                        GERARADO ADRIAN C/BONFOCCO, JUAN ANGEL S/ DA�OS Y PERJUICIOS -
+                                                    </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR class=fondoceleste>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EN LETRA</P>
+                                            </div>
+                                        </TD> \r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>2778</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>2226</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft></P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=226552&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=226552&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft></P></A></div>
+                                        </TD>
+                                    </TR> \r\n <TR>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=226554 name=\"Marcados\"> \r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=226554&pidJuzgado=GAM591\">MONTANARI,
+                                                        GERARDO ADRIAN S/ DA�OS Y PERJUICIOS DEL /CUAS.(EXC.USO AUT.Y
+                                                        ESTADO)(98) - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EN LETRA</P>
+                                            </div>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>2844</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>2229</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft></P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=226554&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=226554&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft></P></A></div>
+                                        </TD>\r\n </TR> \r\n <TR class=fondoceleste>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=235117 name=\"Marcados\">\r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=235117&pidJuzgado=GAM591\">MONTANARI,
+                                                        LUISA S/ SUCESION AB INTESTATO (21) - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR class=fondoceleste>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARALIZADA</P>
+                                            </div>
+                                        </TD> \r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>A&nbsp;-&nbsp;0&nbsp;-&nbsp;1</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>14118</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>26/11/2001</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=235117&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=235117&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>03/08/2022 - CAUSA PARALIZADA</P></A></div>
+                                        </TD>
+                                    </TR> \r\n <TR>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=223711 name=\"Marcados\"> \r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=223711&pidJuzgado=GAM591\">MONTANARI,
+                                                        PEDRO FEDERICO S/ SUCESION AB INTESTATO (21) - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EN LETRA</P>
+                                            </div>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>6310</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>5809</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>02/07/1997</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=223711&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=223711&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>15/07/1997 - RECUSACION</P></A></div>
+                                        </TD>\r\n </TR> \r\n <TR class=fondoceleste>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=248654 name=\"Marcados\">\r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=248654&pidJuzgado=GAM591\">MONTANARI,
+                                                        RUBEN EMILIO S/ SUCESION AB INTESTATO (21) - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR class=fondoceleste>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARALIZADA</P>
+                                            </div>
+                                        </TD> \r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>QL&nbsp;-&nbsp;22689&nbsp;-&nbsp;8</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>27397</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>02/09/2008</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=248654&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=248654&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>08/01/2018 - CAUSA PARALIZADA</P></A></div>
+                                        </TD>
+                                    </TR> \r\n <TR>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=221327 name=\"Marcados\"> \r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=221327&pidJuzgado=GAM591\">MUNICIPALIDAD
+                                                        DE BERAZATEGUI C/MONTANARI,GUSTAVO S/ APREMIO - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARALIZADA</P>
+                                            </div>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>3053</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>982</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>09/02/1995</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=221327&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=221327&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>27/06/2001 - AGR�GUESE Y T�NGASE PRESENTE.-</P>
+                                                    </A></div>
+                                        </TD>\r\n </TR> \r\n <TR class=fondoceleste>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=927554 name=\"Marcados\">\r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=927554&pidJuzgado=GAM591\">MUNICIPALIDAD
+                                                        DE QUILMES C/ MONTANARI CANDIDO S/APREMIO - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR class=fondoceleste>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+                                            </div>
+                                        </TD> \r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>QL&nbsp;-&nbsp;19651&nbsp;-&nbsp;2012</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>QL&nbsp;-&nbsp;19651&nbsp;-&nbsp;2012</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>27/05/2019 10:45:37</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=927554&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=927554&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft></P></A></div>
+                                        </TD>
+                                    </TR> \r\n <TR>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=235744 name=\"Marcados\"> \r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=235744&pidJuzgado=GAM591\">MUNICIPALIDAD
+                                                        DE QUILMES C/ MONTANARI, SANDRA S/ APREMIO - </A>\r\n </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARALIZADA</P>
+                                            </div>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>66035</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>14733</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>30/04/2002</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=235744&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=235744&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>08/04/2011 - CAUSA PARALIZADA</P></A></div>
+                                        </TD>\r\n </TR> \r\n <TR class=fondoceleste>\r\n <TD colspan=\"5\" nowrap>
+                                            <div class=AnchoFijoCaratula>\r\n <P class=smallleft>\r\n <INPUT
+                                                        type=\"checkbox\" value=237679 name=\"Marcados\">\r\n <INPUT
+                                                        type=\"hidden\" value=GAM591><A
+                                                        href=\"procesales.asp?nidCausa=237679&pidJuzgado=GAM591\">MUNICIPALIDAD
+                                                        DE QUILMES C/ MONTANARI, CANDIDO AGUSTIN S/ APREMIO - </A>\r\n
+                                                </P>
+                                            </div>
+                                        </TD>
+                                    </TR>\r\n <TR class=fondoceleste>\r\n <TD>
+                                            <div class=OverflowHidden>
+                                                <P class=smallleft>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PARALIZADA</P>
+                                            </div>
+                                        </TD> \r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer1','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer1','','hide')\">
+                                            <P class=smallleft>0</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer2','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer2','','hide')\">
+                                            <P class=smallleft>16626</P>
+                                        </TD>\r\n \r\n <TD nowrap onmouseover=\"MM_showHideLayers('Layer3','','show')\"
+                                            onmouseout=\"MM_showHideLayers('Layer3','','hide')\">
+                                            <P class=smallleft>17/06/2003</P>
+                                        </TD>\r\n <TD>
+                                            <div class=OverflowHidden><A
+                                                    href=\"procesales.asp?nidCausa=237679&pidJuzgado=GAM591\">\r\n
+                                                    <!--<TD onmouseover=\"MM_showHideLayers('Layer5','','show')\" onmouseout=\"MM_showHideLayers('Layer5','','hide')\"><div class=OverflowHidden><A href=\"procesales.asp?nidCausa=237679&pidJuzgado=GAM591\"> -->\r\n
+                                                    <P class=smallleft>28/01/2010 - ARCHIVO</P></A></div>
+                                        </TD>
+                                    </TR>\r\n</TBODY>
+                            </TABLE>\r\n<DIV class=fondoazul id=Layer1 style=\"Z-INDEX: 1; LEFT: 0px; VISIBILITY:
+                                hidden; COLOR: #003063; POSITION: absolute; TOP: 0px\">
+                                <P class=white>&nbsp;N� de Receptor�a&nbsp;</P>
+                            </DIV>\r\n<DIV class=fondoazul id=Layer2 style=\"Z-INDEX: 1; LEFT: 0px; VISIBILITY: hidden;
+                                COLOR: #003063; POSITION: absolute; TOP: 0px\">
+                                <P class=white>&nbsp;N� de Expediente&nbsp;</P>
+                            </DIV>\r\n<DIV class=fondoazul id=Layer3 style=\"Z-INDEX: 1; LEFT: 0px; VISIBILITY: hidden;
+                                COLOR: #003063; POSITION: absolute; TOP: 0px\">
+                                <P class=white>&nbsp;Fecha de Inicio&nbsp;</P>
+                            </DIV>\r\n<DIV class=fondoazul id=Layer4 style=\"Z-INDEX: 1; LEFT: 0px; VISIBILITY: hidden;
+                                COLOR: #003063; POSITION: absolute; TOP: 0px\">
+                                <P class=white>&nbsp;Estado&nbsp;</P>
+                            </DIV>\r\n<DIV class=fondoazul id=Layer5 style=\"Z-INDEX: 1; LEFT: 0px; VISIBILITY: hidden;
+                                COLOR: #003063; POSITION: absolute; TOP: 0px\">
+                                <P class=white>&nbsp;Ultimo despacho &gt;&gt;Ampliar&nbsp;</P>
+                            </DIV>\r\n\r\n<div class=\"renglon\"></div>\r\n\r\n<p class=\"right\">Total Expedientes :
+                                9&nbsp;&nbsp;&nbsp;&nbsp; \r\n\r\n</form>\r\n\r\n\r\n\r\n<table class=\"pegada\">
+                            <tr>
+                                <td class=\"lineaazul\" colspan=\"2\"></td>
+                            </tr>
+                        </table>\r\n
+                    </td>
+                </tr>
+            </table>
+            </td>
+            </tr>
+        </table>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pinchecito.UI</name>
+    </assembly>
+    <members>
+        <member name="P:Pinchecito.UI.ViewModel.HomeViewModel.Username">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.HomeViewModel.username"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.HomeViewModel.Fullname">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.HomeViewModel.fullname"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.HomeViewModel.FilesBeingTracked">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.HomeViewModel.filesBeingTracked"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.HomeViewModel.LastNotification">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.HomeViewModel.lastNotification"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.AvailableDistricts">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.availableDistricts"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.SelectedDistrict">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.selectedDistrict"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.Password">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.password"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.Username">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.username"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.IsLoginBeingProcessed">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.isLoginBeingProcessed"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.LoginError">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.loginError"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.LoginFailure">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.LoginViewModel.loginFailure"/>
+        </member>
+        <member name="F:Pinchecito.UI.ViewModel.LoginViewModel.loginCommand">
+            <summary>The backing field for <see cref="P:Pinchecito.UI.ViewModel.LoginViewModel.LoginCommand"/>.</summary>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.LoginViewModel.LoginCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Pinchecito.UI.ViewModel.LoginViewModel.Login"/>.</summary>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.AvailableDistricts">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.availableDistricts"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SelectedDistrict">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.selectedDistrict"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SelectedCourt">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.selectedCourt"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SearchText">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.searchText"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.TrackableFiles">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.trackableFiles"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SelectedTrackableFile">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.selectedTrackableFile"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.Courts">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.courts"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.DataWasRetrieved">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.dataWasRetrieved"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.DataIsLoading">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.dataIsLoading"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.IsSearching">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.isSearching"/>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.LastUpdateString">
+            <inheritdoc cref="F:Pinchecito.UI.ViewModel.TrackFileViewModel.lastUpdateString"/>
+        </member>
+        <member name="F:Pinchecito.UI.ViewModel.TrackFileViewModel.searchCommand">
+            <summary>The backing field for <see cref="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SearchCommand"/>.</summary>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.SearchCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Pinchecito.UI.ViewModel.TrackFileViewModel.Search"/>.</summary>
+        </member>
+        <member name="F:Pinchecito.UI.ViewModel.TrackFileViewModel.trackCommand">
+            <summary>The backing field for <see cref="P:Pinchecito.UI.ViewModel.TrackFileViewModel.TrackCommand"/>.</summary>
+        </member>
+        <member name="P:Pinchecito.UI.ViewModel.TrackFileViewModel.TrackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Pinchecito.UI.ViewModel.TrackFileViewModel.Track"/>.</summary>
+        </member>
+    </members>
+</doc>
